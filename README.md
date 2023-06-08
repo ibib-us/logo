@@ -4,7 +4,11 @@ Logos for the Makerspace, and representations across different formats.
 ## vector
 Includes logos designed for printing, carving and web display
 
-![logo](./vector/ibib-logo.png)
+![logo](./vector/IBiB-logo.png)
+
+Non-profit logo also included (Brockport Original Builds)
+
+![BOB-logo](./vector/BOB-logo.png)
 
 ## terminal
 Includes logos designed specifically for text terminals.
