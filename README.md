@@ -4,11 +4,15 @@ Logos for the Makerspace, and representations across different formats.
 ## vector
 Includes logos designed for printing, carving and web display
 
-![logo](./vector/ibib-logo.png)
+![logo](./images/ibib-logo-large.png)
+
+Our emblem/image is that of a bee 
+
+![bee](./images/iBiB_bee_logo-large.png)
 
 Non-profit logo also included (Brockport Original Builds)
 
-![BOB-logo](./vector/BOB-logo.png)
+![BOB-logo](./images/BOB-logo-large.png)
 
 ## terminal
 Includes logos designed specifically for text terminals.
