@@ -31,3 +31,4 @@ Includes logos designed specifically for text terminals.
 
 * HWT Slab Antique
 * Rockwell bold is similar to HWT Slab Antique and is a free font.
+* Additional logo design uses pain de mie and Final Six
